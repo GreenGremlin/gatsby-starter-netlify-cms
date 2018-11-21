@@ -6,4 +6,6 @@ description: Blogging like a pirate
 tags:
   - Blarg
 ---
-Har de har!!
+![Coffee](/img/products-full-width.jpg)
+
+Har de [har](http://foo.xgecko.com)!!
